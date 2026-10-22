@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pyd
+
+# Виртуальные окружения
+.venv/
+venv/
+env/
+
+# Служебные файлы IDE
+.vscode/
+.idea/
+*.swp
+
+# Артефакты сборки и упаковки
+build/
+dist/
+*.egg-info/
+
+# Локальные файлы ОС
+Thumbs.db
+desktop.ini
+.DS_Store
