@@ -1,0 +1,6 @@
+[
+  {"id": 1, "title": "Томаты", "category": "овощи", "amount": 4, "completed": false},
+  {"id": 2, "title": "Базилик", "category": "зелень", "amount": 2, "completed": true},
+  {"id": 3, "title": "Петуния", "category": "цветы", "amount": 6, "completed": true},
+  {"id": 4, "title": "Огурцы", "category": "овощи", "amount": 3, "completed": false}
+]
